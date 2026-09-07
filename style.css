@@ -56,3 +56,21 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* ==========================================================================
+   Exercise 04: The CSS Box Model in Practice
+   ========================================================================== */
+
+div {
+    width: 250px;                   /* Content width */
+    height: 120px;                  /* Content height */
+    background-color: #ffeaa7;       /* Soft gold/yellow fill */
+    border: 3px solid #d63031;       /* Noticeable solid border */
+    padding: 20px;                  /* Internal space between text and border */
+    margin: 30px auto;              /* External space; 'auto' centers the box horizontally */
+    
+    /* Optional enhancements for polish */
+    font-weight: bold;
+    color: #2d3436;
+    text-align: center;
+}
