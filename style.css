@@ -16,14 +16,14 @@ body {
 /* 2. Main heading styling */
 h1 {
     font-family: "Times New Roman", Times, serif;
-    color: #003366; /* TTU Navy / Professional Accent */
+    color: #000000; /* Black */
     margin-bottom: 10px;
 }
 
 /* 3. Subheading styling */
 h2 {
     font-family: "Times New Roman", Times, serif;
-    color: #4a5568;
+    color: #000000; /* Black */
     margin-top: 20px;
     margin-bottom: 12px;
 }
@@ -31,7 +31,7 @@ h2 {
 /* 4. Paragraph styling */
 p {
     font-family: "Times New Roman", Times, serif;
-    color: #2d3748;
+    color: #000000;
     font-size: 1rem;
     margin-bottom: 16px;
     max-width: 750px; /* Improves readability across wide monitors */
@@ -48,7 +48,7 @@ li {
 }
 
 a {
-    color: #cc0000; /* TTU Scarlet Accent */
+    color: #000000; /* Black */
     text-decoration: none;
     font-weight: bold;
 }
